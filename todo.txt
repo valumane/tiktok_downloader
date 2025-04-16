@@ -1,0 +1,7 @@
+todo : 
+pour les videos avec avertissement : 
+on partage cookie utilisateur
+on simule interaction utilisateur avec selenium
+
+sinon
+on extrait le json de l'url avec yt-dlp et on cherche le cdn de la page pour le download
